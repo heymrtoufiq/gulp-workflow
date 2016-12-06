@@ -1,0 +1,20 @@
+{
+  "name": "2016",
+  "version": "1.0.0",
+  "description": "front end workflow with npm gulp & git ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "bootstrap"
+  ],
+  "author": "TouFiq",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
